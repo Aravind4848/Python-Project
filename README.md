@@ -1,2 +1,2 @@
 # Python-Project
-Created an automated console based games including an arithmatic puzzle game, a riddle based puzzle game, Rock - Paper - Scissor game - a gateway to digital entertainment accessible with the tap of a key
+Created automated console-based games including an arithmetic puzzle game, a riddle-based puzzle game, and Rock - Paper - Scissor games. - a gateway to digital entertainment accessible with the tap of a key
